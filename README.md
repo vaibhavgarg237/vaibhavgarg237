@@ -66,7 +66,7 @@
 
 <p align="center">
 
-<a href="https://vaibhavgarg.me" target="blank">
+<a href="http://vaibhavgarg.me/css-personal-site/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@vaibhavgarg237" height="20" width="20" />
 </a>
 
