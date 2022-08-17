@@ -2,32 +2,12 @@
 <a href="https://vaibhavgarg.me">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-</a>
-
-
-<h2> Hi there 👋, I'm Vaibhav!</h2>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style='display:inline;' width="30">
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style='display:inline;' width="30">
 
 
 
 
-<a href="https://www.linkedin.com/in/vaibhavgargdtu/" target="_blank">
-  <img  align="left" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
-</a>
-<a href="https://twitter.com/vaibhavgarg1901" target="_blank">
-  <img  align="left" width="28px" src="https://as1.ftcdn.net/v2/jpg/03/20/88/34/1000_F_320883488_PMmkQget359WtY6foB1xFN3Wcvus6WTM.jpg" />
-</a>
-<a href="mailto:vaibhav.garg237@gmail.com">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
-</a>
-<a href="https://www.codechef.com/users/vaibhavgarg237" target="_blank">
-  <img align="left" width="26px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
-</a>
-<a href="https://leetcode.com/Vaibhavgarg237/" target="_blank">
-  <img alt="Medium" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-</a>
-
-
+<h2> Hi there 👋, I'm Vaibhav!  </h2> 
 
 
 
@@ -57,10 +37,7 @@
 
 
 
-### Languages, Frameworks & Technologies I use to talk to computer 🤔
-
-<p>&nbsp;</p>
-
+<h3>Languages, Frameworks & Technologies I use to talk to computer 🤔 </h3>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img align="left" alt="TailWindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -99,6 +76,31 @@
 
 
 
+<div align="center">
+<a href="https://www.linkedin.com/in/vaibhavgargdtu/" target="_blank">
+  <img  width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
+</a>
+<a href="https://twitter.com/vaibhavgarg1901" target="_blank">
+  <img width="28px" src="https://as1.ftcdn.net/v2/jpg/03/20/88/34/1000_F_320883488_PMmkQget359WtY6foB1xFN3Wcvus6WTM.jpg" />
+</a>
+<a href="mailto:vaibhav.garg237@gmail.com">
+  <img width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
+</a>
+<a href="https://www.codechef.com/users/vaibhavgarg237" target="_blank">
+  <img width="26px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
+</a>
+<a href="https://leetcode.com/Vaibhavgarg237/" target="_blank">
+  <img alt="Medium" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+</a>
+</div>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
 
 
 <div align="center">
@@ -127,37 +129,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-
-
-
-
-<p align="center">
-
-<a href="http://vaibhavgarg.me/css-personal-site/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@vaibhavgarg237" height="20" width="20" />
-</a>
-
-
-<a href="https://www.linkedin.com/in/vaibhavgargdtu/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vaibhavgarg237" height="20" width="20" />
-</a>
-
-<a href="https://twitter.com/vaibhavgarg237" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vaibhavgarg237" height="20" width="20" />
-</a>
-
-<a href="https://github.com/vaibhavgarg237" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vaibhavgarg237" height="20" width="20" />
-</a>
-
-<a href="https://t.me/gargvaibhav" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="vaibhavgarg" height="20" width="20" />
-</a>
-
-</a>
-
-</p>
-
 
 
 <!--
