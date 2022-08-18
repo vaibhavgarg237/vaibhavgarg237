@@ -60,11 +60,14 @@
 
 <br>
 
+
+<div align="center">
+
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavgarg237&show_icons=true&theme=radical)
 
-![Harsh's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgarg237&theme=blue-green)
+![Vaibhav's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgarg237&theme=blue-green)
 
-
+</div>
 
 
 
