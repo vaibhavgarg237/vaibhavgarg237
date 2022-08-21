@@ -30,7 +30,7 @@
 - 🔭 I’m currently working on a lot of things
 - 🌱 I’m currently learning <b>ReactJS</b>, <b>TailwindCSS</b>, Javascript, MERN!
 - 🤔 I’m looking for remote job!
-- 💬 Ask me about reactjs or any tech related stuff
+- 💬 Ask me about reactjs, webdev, btc or any tech related stuff
 - 📫 How to reach me: vaibhav.garg237@gmail.com
 - ⚡ Fun fact: I love to explore
 
