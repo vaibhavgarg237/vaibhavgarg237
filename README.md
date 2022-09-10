@@ -33,9 +33,15 @@
 - 💬 Ask me about reactjs, webdev, btc or any tech related stuff
 - 📫 How to reach me: vaibhav.garg237@gmail.com
 - ⚡ Fun fact: I love to explore
+- <b> Checkout my blogs https://blog.vaibhavgarg.tech/ <b> 
 
+<h3>Articles & Publications </h3>
 
+- <a href="https://blog.vaibhavgarg.tech/react-hooks"> <b> Hooking up with React Hooks! </b> </a>   <br>
 
+- <a href="https://blog.vaibhavgarg.tech/why-im-in-love-with-tailwind-css"> <b> Why I'm in love with Tailwind CSS!</b>  </a>   <br>
+
+- <a href="https://ieeexplore.ieee.org/document/9498349"> <b> IEEE Research Paper -> Load forecasting using different ML & DL techniques </b>  </a>
 
 <h3>Languages, Frameworks & Technologies I use to talk to computer 🤔 </h3>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
