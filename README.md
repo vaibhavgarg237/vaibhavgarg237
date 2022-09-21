@@ -34,6 +34,7 @@
 - 📫 How to reach me: vaibhav.garg237@gmail.com
 - ⚡ Fun fact: I love to explore
 - <b> Checkout my blogs https://blog.vaibhavgarg.tech/ <b> 
+- BITCOIN is love!
 
 <h3>Articles & Publications </h3>
 
