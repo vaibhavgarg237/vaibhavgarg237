@@ -8,14 +8,13 @@
 
 - 🔭 I’m currently working on a lot of things
 - 🌱 I’m currently working on ReactJS, TailwindCSS, ExpressJs, NodeJs, MongoDB, C++!
-<!-- - 🤔 I’m looking for remote job! -->
 - 💬 Ask me about reactjs, webdev, btc or any tech related stuff
 - 📫 How to reach me: vaibhav.garg237@gmail.com
 - ⚡ Fun fact: I love to explore
 - <b> Checkout my blog https://blog.vaibhavgarg.tech/ </b> 
 
 To know more aboue me, visit [www.vaibhavgarg.tech](https://www.vaibhavgarg.tech/)
-
+<!-- - 🤔 I’m looking for remote job! -->
 ## Articles & Publications 
 
 - <a href="https://blog.vaibhavgarg.tech/react-hooks"> <b> Hooking up with React Hooks! </b> </a>   
