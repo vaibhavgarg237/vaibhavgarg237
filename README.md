@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a lot of things
 - 🌱 I’m currently working on ReactJS, TailwindCSS, ExpressJs, NodeJs, MongoDB, C++!
-- 🤔 I’m looking for remote job!
+<!-- - 🤔 I’m looking for remote job! -->
 - 💬 Ask me about reactjs, webdev, btc or any tech related stuff
 - 📫 How to reach me: vaibhav.garg237@gmail.com
 - ⚡ Fun fact: I love to explore
