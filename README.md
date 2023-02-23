@@ -1,48 +1,50 @@
 ![](https://komarev.com/ghpvc/?username=vaibhavgarg237&color=green)
 <a href="https://vaibhavgarg.me">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style='display:inline;' width="30">
- 
+
 ## Hi there 👋, I'm Vaibhav!
 
 - 🔭 I’m currently working on a lot of things
 - 🌱 I’m currently working on ReactJS, ExpressJs, NodeJs, C++, MongoDB, TailwindCSS, C#!
 - 📫 How to reach me: vaibhav.garg237@gmail.com
 - ⚡ Fun fact: I love to explore
-- <b> Checkout my blog https://blog.vaibhavgarg.tech/ </b> 
+- <b> Checkout my blog https://blog.vaibhavgarg.tech/ </b>
 
 To know more aboue me, visit [www.vaibhavgarg.tech](https://www.vaibhavgarg.tech/)
+
 <!-- - 🤔 I’m looking for remote job! -->
-## Articles & Publications 
 
-- <a href="https://blog.vaibhavgarg.tech/react-hooks"> <b> Hooking up with React Hooks! </b> </a>   
-- <a href="https://blog.vaibhavgarg.tech/why-im-in-love-with-tailwind-css"> <b> Why I'm in love with Tailwind CSS!</b>  </a>   
-- <a href="https://blog.vaibhavgarg.tech/parse-json-cpp"> <b> Let's Parse stringified JSON in C++ </b>  </a>   
-- <a href="https://ieeexplore.ieee.org/document/9498349"> <b> IEEE Research Paper -> Load forecasting using different ML & DL techniques </b>  </a>
+## My Articles & Publications
 
-## Projects 🌱
+- <a href="https://blog.vaibhavgarg.tech/react-hooks"> <b> Hooking up with React Hooks! </b> </a>
+- <a href="https://blog.vaibhavgarg.tech/why-im-in-love-with-tailwind-css"> <b> Why I'm in love with Tailwind CSS!</b> </a>
+- <a href="https://blog.vaibhavgarg.tech/parse-json-cpp"> <b> Let's Parse stringified JSON in C++ </b> </a>
+- <a href="https://ieeexplore.ieee.org/document/9498349"> <b> IEEE Research Paper -> Load forecasting using different ML & DL techniques </b> </a>
+
+## My Projects 🌱
 
 <!-- <details> -->
 
-|                Name                | Description                                                                                                                                                              |                  Tech-stack                   |                                                        Source Code                                                        |                                                                                                                           Deployed at                                                                                                                           |               Demo Video                |
-| :--------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------: |
-|     Jarvis *(**500+ users**)*      | **Whatsapp chatbot** powered by GPT-3.5, DALL-E along with music support with **500+ happy repetitive users**                                                            | NodeJS, ExpressJS, MongoDB, Whatsapp-API etc  |                        [Private Repo](https://github.com/vaibhavgarg237/wrath-of-AI/tree/addapis)                         |                                                                                                     [Whatsapp](https://wa.me/917701908368?text=Hi%20Jarvis)                                                                                                     |                  []()                   |
-| ezPointers *(**1000+ downloads**)* | ezPointers(npm package) is a lightweight, FOSS JS library to create beautiful mouse pointers with customised effects.                                                    |                Javascript, npm                |                                   [Repo](https://github.com/vaibhavgarg237/ezPointers)                                    |                                                                                                         [npm](https://www.npmjs.com/package/ezpointers)                                                                                                         |                  []()                   |
-|          Streaming Clone           | Netflix clone using The MovieDB Api for movies & shows details along with CRUD functionality for add to list feature                                                     | ReactJS ,ExpressJS, NodeJS, MongoDB, Firebase |                                  [Repo](https://github.com/vaibhavgarg237/netflixClone)                                   |                                                                                                         [Render](https://streamingclone.onrender.com/)                                                                                                          |                  []()                   |
-|       YRM *(**500+ users**)*       | Chrome extension to filter your Youtube homepage according to your preferences. Works on all Chromium based browsers -> Google Chrome, Microsoft Edge, Opera, Brave etc… |          Chrome extension, Javscript          |                         [Repo](https://github.com/vaibhavgarg237/Youtube-Recommendation-Modifier)                         | [Microsoft Edge store](https://microsoftedge.microsoft.com/addons/detail/youtube-recommendation-mo/lifhdhloggjmjfbhbgnjfjbhjfidinol) & [Chrome web store](https://chrome.google.com/webstore/detail/youtube-recommendation-mo/okiekjodafhephhckglfhcbamodkdibo) | [Youtube](https://youtu.be/S_7y7j_Z8v0) |
-|               iNotes               | Note taking app                                                                                                                                                          |                     MERN                      | [Frontend](https://github.com/vaibhavgarg237/iNotes-frontend) [Backend](https://github.com/vaibhavgarg237/iNotes-backend) |                                                                                                                              [Render](https://inotes-frontend.onrender.com)                                                                                                                               |                  []()                   |
-|              News App              | ReactJS News App Consuming News Api, where user can select news categories using React-router.                                                                           |                    ReactJS                    |                                     [Repo](https://github.com/vaibhavgarg237/newsapp)                                     |                                                                                                          [Render](https://newsapp-vggs.onrender.com/)                                                                                                           |                  []()                   |
-|            textUtility             | ReactJS app for manipulating text like Convert to Upper Case, Lower case, Count words, minutes read, Enable dark mode                                                    |                    ReactJS                    |                                   [Repo](https://github.com/vaibhavgarg237/textUtility)                                   |                                                                                                        [Render](https://text-utils-react.onrender.com/)                                                                                                         |                  []()                   |
-|  Microsoft Clone (*Mini Project*)  | Responsive microsoft clone using Tailwind CSS                                                                                                                            |                                               |                                 [Repo](https://github.com/vaibhavgarg237/microsoftClone)                                  |                                                                                                           [Render](https://mstailwind.onrender.com/)                                                                                                            |                  []()                   |
-|  Facebook Clone (*Mini Project*)   |                                                                                                                                                                          |                                               |                                  [Repo](https://github.com/vaibhavgarg237/facebookClone)                                  |                                                                                                           [Render](https://fbtailwind.onrender.com/)                                                                                                            |                  []()                   |
+|                Name                | Description                                                                                             |                     Tech-stack                      |                                                        Source Code                                                        |                                                                                                                          Deployed At                                                                                                                          |                                                                                                               Demo Video                                                                                                                |
+| :--------------------------------: | :------------------------------------------------------------------------------------------------------ | :-------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     Jarvis _(**500+ users**)_      | **Whatsapp chatbot** powered by GPT-3.5, DALL-E with music support with **500+ happy repetitive users** | NodeJs, Express, MongoDB, Whatsapp-API, OpenAI etc  |                        [Private Repo](https://github.com/vaibhavgarg237/wrath-of-AI/tree/addapis)                         |                                                                                                    [Whatsapp](https://wa.me/917701908368?text=Hi%20Jarvis)                                                                                                    |                                                                                                                  []()                                                                                                                   |
+|          Streaming Clone           | Full stack Netflix clone using TMDB API to show data along with all CRUD functionalities                | React ,Express, NodeJS, MongoDB, Firebase, Tailwind |                                  [Repo](https://github.com/vaibhavgarg237/netflixClone)                                   |                                                                                                        [Render](https://streamingclone.onrender.com/)                                                                                                         |                                                                                                 [Youtube](https://youtu.be/sYHnb4pkVzo)                                                                                                 |
+|       YRM _(**500+ users**)_       | Chrome extension to filter your Youtube homepage according to your category preferences.                |             Chrome extension, Javscript             |                         [Repo](https://github.com/vaibhavgarg237/Youtube-Recommendation-Modifier)                         | [Microsoft Store](https://microsoftedge.microsoft.com/addons/detail/youtube-recommendation-mo/lifhdhloggjmjfbhbgnjfjbhjfidinol) & [Google Chrome Store](https://chrome.google.com/webstore/detail/youtube-recommendation-mo/okiekjodafhephhckglfhcbamodkdibo) |                                                                                                 [Youtube](https://youtu.be/S_7y7j_Z8v0)                                                                                                 |
+| ezPointers _(**1000+ downloads**)_ | ezPointers(npm package) lightweight JS lib to create beautiful mouse pointers with high customisation.  |                   Javascript, npm                   |                                   [Repo](https://github.com/vaibhavgarg237/ezPointers)                                    |                                                                                                        [npm](https://www.npmjs.com/package/ezpointers)                                                                                                        | [Round Eg](https://user-images.githubusercontent.com/67408018/202010052-7701596a-50a8-4e2d-ac29-c02f71c4152b.mp4) & [Shooter Eg](https://user-images.githubusercontent.com/67408018/202190510-d876f5c7-98a7-4fbe-b9b0-1d8d7462d6db.mp4) |
+|               iNotes               | Full stack Note taking app with CRUD operations.                                                        |                        MERN                         | [Frontend](https://github.com/vaibhavgarg237/iNotes-frontend) [Backend](https://github.com/vaibhavgarg237/iNotes-backend) |                                                                                                        [Render](https://inotes-frontend.onrender.com)                                                                                                         |                                                                                                                  []()                                                                                                                   |
+|              News App              | React app using News Api, with different categories and pagination support.                             |                 React, React-router                 |                                     [Repo](https://github.com/vaibhavgarg237/newsapp)                                     |                                                                                                         [Render](https://newsapp-vggs.onrender.com/)                                                                                                          |                                                                                                                  []()                                                                                                                   |
+|            textUtility             | React app for text utility features...                                                                  |                        React                        |                                   [Repo](https://github.com/vaibhavgarg237/textUtility)                                   |                                                                                                       [Render](https://text-utils-react.onrender.com/)                                                                                                        |                                                           [Demo Video](https://user-images.githubusercontent.com/67408018/185799400-fa266e62-fdf8-478e-85ae-f14508e20fa7.mp4)                                                           |
+|        Microsoft & fb Clone        | (_Mini Project_)                                                                                        |                                                     |      [MS](https://github.com/vaibhavgarg237/microsoftClone) & [fb](https://github.com/vaibhavgarg237/facebookClone)       |                                                                                        [MS](https://mstailwind.onrender.com/) & [fb](https://fbtailwind.onrender.com/)                                                                                        |                                                                                                                  []()                                                                                                                   |
 
 Checkout www.vaibhavgarg.tech
+
 <!-- </details> -->
 
-## Open Source Contributions
+## My Open Source Contributions
 
-| 🎁 Repo                                                                                                                                                                               | Description                                      | Issues                                                                        | ✨ Pull Request                                                                                                                                                                                                                                                         |
+| 🎁 Repo                                                                                                                                                                              | Description                                      | Issues                                                                        | ✨ Pull Request                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Github Repo](https://img.shields.io/badge/getAlby-lightning--browser--extension-blue?style=flat-square)](https://github.com/getAlby/lightning-browser-extension)                  | refactor: form el for ConfirmorCancel            | [#1617](https://github.com/getAlby/lightning-browser-extension/issues/1617)   | [getAlby#1816](https://github.com/getAlby/lightning-browser-extension/pull/1816)                                                                                                                                                                                       |
 | [![Github Repo](https://img.shields.io/badge/getAlby-lightning--browser--extension-blue?style=flat-square)](https://github.com/getAlby/lightning-browser-extension)                  | fix: disable input fields on Create Invoice      | [#1659](https://github.com/getAlby/lightning-browser-extension/issues/1659)   | [getAlby#1668](https://github.com/getAlby/lightning-browser-extension/pull/1668)                                                                                                                                                                                       |
@@ -57,11 +59,11 @@ Checkout www.vaibhavgarg.tech
 | [![Github Repo](https://img.shields.io/badge/btcpayserver-directory.btcpayserver.org-blue?style=flat-square)](https://github.com/btcpayserver/directory.btcpayserver.org/)           | [Warning] remove react unique key warning        | [#349](https://github.com/btcpayserver/directory.btcpayserver.org/issues/349) | [btcPayServer#350](https://github.com/btcpayserver/directory.btcpayserver.org/pull/350)                                                                                                                                                                                |
 | [![Github Repo](https://img.shields.io/badge/btcpayserver-directory.btcpayserver.org-blue?style=flat-square)](https://github.com/btcpayserver/directory.btcpayserver.org/issues/344) | Nits                                             | [#344](https://github.com/btcpayserver/directory.btcpayserver.org/issues/344) | <a href="https://github.com/btcpayserver/directory.btcpayserver.org/pull/345"> PR-1 </a> <a href="https://github.com/btcpayserver/directory.btcpayserver.org/pull/332">PR-2</a> <a href="https://github.com/btcpayserver/directory.btcpayserver.org/pull/343">PR-3</a> |
 
-
 <!-- https://github.com/getAlby/lightning-browser-extension -->
 <!-- https://github.com/btcpayserver/directory.btcpayserver.org/ -->
 
-## Technologies I use to talk to computer 🤔 
+## Technologies I use to talk to computer 🤔
+
 <img align="left" style="margin: 1px;" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" style="margin: 1px;" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img align="left" style="margin: 1px;" alt="TailWindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -81,13 +83,13 @@ Checkout www.vaibhavgarg.tech
 <p>&nbsp;</p>
 <br>
 
-
 <div align="center">
 
 <!-- [Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavgarg237&show_icons=true&theme=radical) -->
-![Vaibhav's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgarg237&theme=blue-green)
-</div>
 
+![Vaibhav's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgarg237&theme=blue-green)
+
+</div>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/vaibhavgargdtu/" target="_blank">
@@ -106,7 +108,6 @@ Checkout www.vaibhavgarg.tech
   <img alt="Medium" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </a>
 </div>
-
 
 <!-- <p>&nbsp;</p> -->
 
@@ -136,7 +137,6 @@ Checkout www.vaibhavgarg.tech
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div> -->
-
 
 <!--
 
