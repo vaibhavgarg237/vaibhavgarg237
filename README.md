@@ -19,13 +19,18 @@ To know more aboue me, visit [www.vaibhavgarg.tech](https://www.vaibhavgarg.tech
 
 - <a href="https://blog.vaibhavgarg.tech/react-hooks"> <b> Hooking up with React Hooks! </b> </a>   
 - <a href="https://blog.vaibhavgarg.tech/why-im-in-love-with-tailwind-css"> <b> Why I'm in love with Tailwind CSS!</b>  </a>   
+- <a href="https://blog.vaibhavgarg.tech/parse-json-cpp"> <b> Let's Parse stringified JSON in C++ </b>  </a>   
 - <a href="https://ieeexplore.ieee.org/document/9498349"> <b> IEEE Research Paper -> Load forecasting using different ML & DL techniques </b>  </a>
 
 ## Open Source Contributions
 
 | 🎁 Repo  | Description | Issue | ✨ Pull Request |
 | ---  | --- | --- | --- |
-| [![Github Repo](https://img.shields.io/badge/getAlby-lightning--browser--extension-blue?style=flat-square)](https://github.com/getAlby/lightning-browser-extension) | refactor: form el for ConfirmorCancel | <https://github.com/getAlby/lightning-browser-extension/issues/1617> | <https://github.com/getAlby/lightning-browser-extension/pull/1816> |
+| [![Github Repo](https://img.shields.io/badge/getAlby-lightning--browser--extension-blue?style=for-the-badge)](https://github.com/getAlby/lightning-browser-extension) | refactor: form el for ConfirmorCancel |  [issue#1617](https://github.com/getAlby/lightning-browser-extension/issues/1617) | <https://github.com/getAlby/lightning-browser-extension/pull/1816> |
+
+| 🎁 Repo  | Description | Issue | ✨ Pull Request |
+| ---  | --- | --- | --- |
+| [![Github Repo](https://img.shields.io/badge/getAlby-lightning--browser--extension-blue?style=for-the-badge)](https://github.com/getAlby/lightning-browser-extension) | refactor: form el for ConfirmorCancel | <https://github.com/getAlby/lightning-browser-extension/issues/1617> | <https://github.com/getAlby/lightning-browser-extension/pull/1816> |
 | [![Github Repo](https://img.shields.io/badge/getAlby-lightning--browser--extension-blue?style=flat-square)](https://github.com/getAlby/lightning-browser-extension) | fix: disable input fields on Create Invoice | <https://github.com/getAlby/lightning-browser-extension/issues/1659> | <https://github.com/getAlby/lightning-browser-extension/pull/1668> |
 | [![Github Repo](https://img.shields.io/badge/getAlby-lightning--browser--extension-blue?style=flat-square)](https://github.com/getAlby/lightning-browser-extension) | fix: input placeholder got cut (send) | <https://github.com/getAlby/lightning-browser-extension/issues/1517> | <https://github.com/getAlby/lightning-browser-extension/pull/1591> |
 | [![Github Repo](https://img.shields.io/badge/getAlby-lightning--browser--extension-blue?style=flat-square)](https://github.com/getAlby/lightning-browser-extension) | fix(lnurlpay): disable input fields buttons | <https://github.com/getAlby/lightning-browser-extension/issues/1572> | <https://github.com/getAlby/lightning-browser-extension/pull/1576> |
