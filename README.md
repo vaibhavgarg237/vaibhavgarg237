@@ -22,6 +22,25 @@ To know more aboue me, visit [www.vaibhavgarg.tech](https://www.vaibhavgarg.tech
 - <a href="https://blog.vaibhavgarg.tech/parse-json-cpp"> <b> Let's Parse stringified JSON in C++ </b>  </a>   
 - <a href="https://ieeexplore.ieee.org/document/9498349"> <b> IEEE Research Paper -> Load forecasting using different ML & DL techniques </b>  </a>
 
+## Projects 🌱
+
+<!-- <details> -->
+
+| Name | Description | Tech-stack | Source Code | Deployed at | Demo Video | 
+|:----:|:------------|:----:|:----:|:-----------:|:----------:|
+| Jarvis *(**500+ users**)* | **Whatsapp chatbot** powered by GPT-3.5, DALL-E along with music support with **500+ happy repetitive users** | NodeJS, ExpressJS, MongoDB, Whatsapp-API etc | [Repo](https://github.com/vaibhavgarg237/wrath-of-AI/tree/addapis) |  [Whatsapp](https://wa.me/917701908368?text=Hi%20Jarvis)|[]()
+| ezPointers *(**1000+ downloads**)* | ezPointers(npm package) is a lightweight, FOSS JS library to create beautiful mouse pointers with customised effects. | Javascript, npm | [Repo](https://github.com/vaibhavgarg237/ezPointers) |  [npm](https://www.npmjs.com/package/ezpointers) | []()
+| Streaming Clone | Netflix clone using The MovieDB Api for movies & shows details along with CRUD functionality for add to list feature | ReactJS ,ExpressJS, NodeJS, MongoDB, Firebase | [Repo](https://github.com/vaibhavgarg237/netflixClone) | [render](https://streamingclone.onrender.com/) | []()
+| YRM *(**500+ users**)* | Chrome extension to filter your Youtube homepage according to your preferences. Works on all Chromium based browsers -> Google Chrome, Microsoft Edge, Opera, Brave etc… | Chrome extension, Javscript | [Repo](https://github.com/vaibhavgarg237/Youtube-Recommendation-Modifier) |  [Microsoft Edge store](https://microsoftedge.microsoft.com/addons/detail/youtube-recommendation-mo/lifhdhloggjmjfbhbgnjfjbhjfidinol) | [Youtube](https://youtu.be/S_7y7j_Z8v0)
+| iNotes  | Note taking app | MERN | [Frontend](https://github.com/vaibhavgarg237/iNotes-frontend) [Backend](https://github.com/vaibhavgarg237/iNotes-backend) |  []() | []()
+| News App | ReactJS News App Consuming News Api, where user can select news categories using React-router. | ReactJS | [Repo](https://github.com/vaibhavgarg237/newsapp) |  [render](https://newsapp-vggs.onrender.com/) | []()
+| textUtility | ReactJS app for manipulating text like Convert to Upper Case, Lower case, Count words, minutes read, Enable dark mode | ReactJS | [Repo](https://github.com/vaibhavgarg237/textUtility) |  [render](https://text-utils-react.onrender.com/) | []()
+| Microsoft Clone (*Mini Project*) | Responsive microsoft clone using Tailwind CSS |  | [Repo](https://github.com/vaibhavgarg237/microsoftClone) |  [render](https://mstailwind.onrender.com/) | []()
+| Facebook Clone (*Mini Project*) |  |  | [Repo](https://github.com/vaibhavgarg237/facebookClone) |  [render](https://fbtailwind.onrender.com/) | []()
+
+Checkout www.vaibhavgarg.tech
+<!-- </details> -->
+
 ## Open Source Contributions
 
 | 🎁 Repo  | Description | Issues | ✨ Pull Request |
