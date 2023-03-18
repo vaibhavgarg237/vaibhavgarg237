@@ -48,6 +48,13 @@ Checkout www.vaibhavgarg.tech
 
 ## My Open Source Contributions
 
+### Testimonial -> <a href="https://twitter.com/getAlby/status/1605571133457149952?s=20">Tweet link</a>
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">A huge thank you to all our contributors, making Alby even more great!!🚀<br>
+  <a href="https://twitter.com/vaibhavgarg237">@vaibhavgarg237</a></p>
+</blockquote>
+
 | 🎁 Repo                                                                                                                                                                              | Description                                      | Issues                                                                        | ✨ Pull Request                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Github Repo](https://img.shields.io/badge/getAlby-lightning--browser--extension-blue?style=flat-square)](https://github.com/getAlby/lightning-browser-extension)                  | refactor: form el for ConfirmorCancel            | [#1617](https://github.com/getAlby/lightning-browser-extension/issues/1617)   | [getAlby#1816](https://github.com/getAlby/lightning-browser-extension/pull/1816)                                                                                                                                                                                       |
