@@ -96,15 +96,14 @@ Checkout www.vaibhavgarg.tech
 </p>
 <!-- <p>&nbsp;</p> -->
 <!-- <p>&nbsp;</p> -->
-<br>
+<!-- <br> -->
 
-<div align="center">
-
+<!-- <div align="center"> -->
 <!-- [Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavgarg237&show_icons=true&theme=radical) -->
 
-![Vaibhav's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgarg237&theme=blue-green)
+<!-- ![Vaibhav's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgarg237&theme=blue-green) -->
 
-</div>
+<!-- </div> -->
 
 <!-- <div align="center">
 <a href="https://www.linkedin.com/in/vaibhavgargdtu/" target="_blank">
