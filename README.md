@@ -51,6 +51,7 @@ Checkout www.vaibhavgarg.tech
 ### Testimonial -> <a href="https://twitter.com/getAlby/status/1605571133457149952?s=20">Tweet link</a>
 
 <blockquote class="twitter-tweet">
+  <b><a href="https://github.com/getAlby/lightning-browser-extension/commits?author=vaibhavgarg237">My contributions at getAlby</a></b>
   <p lang="en" dir="ltr">A huge thank you to all our contributors, making Alby even more great!!🚀<br>
   <a href="https://twitter.com/vaibhavgarg237">@vaibhavgarg237</a></p>
 </blockquote>
