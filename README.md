@@ -48,10 +48,19 @@ Checkout www.vaibhavgarg.tech
 
 ## My Open Source Contributions
 
+<li>
+<b><a href="https://github.com/getAlby/lightning-browser-extension/commits?author=vaibhavgarg237">Contributions at getAlby</a></b>
+<br>
+<li>
+<b><a href="https://github.com/btcpayserver/directory.btcpayserver.org/commits?author=vaibhavgarg237">Contributions at btcpayserver</a></b>
+<br>
+<li>
+<b><a href="https://github.com/revault/revaultd/commits?author=vaibhavgarg237">Contributions at revault</a></b>
+<br>
+
 ### Testimonial -> <a href="https://twitter.com/getAlby/status/1605571133457149952?s=20">Tweet link</a>
 
 <blockquote class="twitter-tweet">
-  <b><a href="https://github.com/getAlby/lightning-browser-extension/commits?author=vaibhavgarg237">My contributions at getAlby</a></b>
   <p lang="en" dir="ltr">A huge thank you to all our contributors, making Alby even more great!!🚀<br>
   <a href="https://twitter.com/vaibhavgarg237">@vaibhavgarg237</a></p>
 </blockquote>
